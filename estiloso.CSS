@@ -1,0 +1,44 @@
+h1 {
+    color: blue;
+    font-size: 17px;
+}
+
+p {
+    color: black;
+    font-size: 21px;
+}
+
+
+title {
+    color: white;
+    font-size: 67px;
+}
+
+
+body {
+    background-color: white;
+}
+
+a {
+    color: blue;
+    text-decoration: solid;
+}
+
+#branco {
+    color: black;
+    font-size: 20px;
+}
+
+#vermelho {
+    color: red;
+    font-size: 20px;
+}
+
+#retesto {
+    color: black;
+    font-size: 15px;
+}
+
+body {
+    background-color: white;
+}
